@@ -1,0 +1,57 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "7f5b16477b4e498a",
+            "max_int": "f76fe874a15f6ad2",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "StrangerThings",
+            "photo": "https://i.postimg.cc/k566BjkZ/millie-bobby-brown-stranger-things-medios.jpg",
+            "voice": "https://ringy9.github.io/StrangerThings/vioce.mp4",
+            "video": "https://ringy9.github.io/StrangerThings/video.mp4",
+            "stories": [
+          "https://i.postimg.cc/Wz6JshQ1/0422718c4c1e3c07eaf50b082b53e364.jpg",
+"https://i.postimg.cc/J0WkwbYF/08d34d9e82ee7453e262667e36ca66b6.jpg",
+"https://i.postimg.cc/NjGRfkGq/0a54f2d87e74e1d2b41e02d8f6935ddc.jpg",
+"https://i.postimg.cc/m2BH8yHz/0ade23145ed66731fdafcd66e6079c51.jpg",
+"https://i.postimg.cc/s2kBSYz2/1158961449.webp",
+"https://i.postimg.cc/2j4WQKVN/1307494-millie-bobby-brown-le-26-mars-2018.jpg",
+"https://i.postimg.cc/rwptLygq/423b51e4fbbfb96dac5c6923c8f8b69f.jpg",
+"https://i.postimg.cc/k4Sbhjs8/829bbd97fcf7a51525bf5c4b075e3381.jpg",
+"https://i.postimg.cc/bvWngXxp/82ab5f359f580dac49d9103951fd2b64.jpg",
+"https://i.postimg.cc/VLgbT0q7/a549d32205559436aae424585dd73be1.jpg",
+"https://i.postimg.cc/DwY4fVYL/millie-bobby-brown-florence-by-mills.webp",
+"https://i.postimg.cc/xCLXPXj3/millie-bobby-brown-rozstala-sie-z-chlopakiem-jest-oficjalne-oswiadczenie-pary.jpg",
+"https://i.postimg.cc/k566BjkZ/millie-bobby-brown-stranger-things-medios.jpg",
+"https://i.postimg.cc/J0mGYRGV/stranger-things-3-eleven-squad-2i96wm6275ud88i2.jpg"
+               
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/Wz6JshQ1/0422718c4c1e3c07eaf50b082b53e364.jpg",
+"https://i.postimg.cc/J0WkwbYF/08d34d9e82ee7453e262667e36ca66b6.jpg",
+"https://i.postimg.cc/NjGRfkGq/0a54f2d87e74e1d2b41e02d8f6935ddc.jpg",
+"https://i.postimg.cc/m2BH8yHz/0ade23145ed66731fdafcd66e6079c51.jpg",
+"https://i.postimg.cc/s2kBSYz2/1158961449.webp",
+"https://i.postimg.cc/2j4WQKVN/1307494-millie-bobby-brown-le-26-mars-2018.jpg",
+"https://i.postimg.cc/rwptLygq/423b51e4fbbfb96dac5c6923c8f8b69f.jpg",
+"https://i.postimg.cc/k4Sbhjs8/829bbd97fcf7a51525bf5c4b075e3381.jpg",
+"https://i.postimg.cc/bvWngXxp/82ab5f359f580dac49d9103951fd2b64.jpg",
+"https://i.postimg.cc/VLgbT0q7/a549d32205559436aae424585dd73be1.jpg",
+"https://i.postimg.cc/DwY4fVYL/millie-bobby-brown-florence-by-mills.webp",
+"https://i.postimg.cc/xCLXPXj3/millie-bobby-brown-rozstala-sie-z-chlopakiem-jest-oficjalne-oswiadczenie-pary.jpg",
+"https://i.postimg.cc/k566BjkZ/millie-bobby-brown-stranger-things-medios.jpg",
+"https://i.postimg.cc/J0mGYRGV/stranger-things-3-eleven-squad-2i96wm6275ud88i2.jpg"
+            ]
+          
+        }
+    ]
+}
